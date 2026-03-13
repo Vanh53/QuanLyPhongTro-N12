@@ -1,4 +1,4 @@
-package com.example.myapplication3;
+package com.example.quanlytro;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.myapplication3.model.Room;
+import com.example.quanlytro.model.Room;
 
 public class AddEditRoomActivity extends AppCompatActivity {
 
